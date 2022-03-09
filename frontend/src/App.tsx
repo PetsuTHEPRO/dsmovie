@@ -6,7 +6,7 @@ import {
 
 import Form from 'pages/Form';
 import Listing from 'pages/Listing';
-import Navbar from "component/Navbar";
+import Navbar from "components/Navbar";
 
 function App(){
   return(
